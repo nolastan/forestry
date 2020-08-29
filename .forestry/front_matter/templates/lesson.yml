@@ -40,6 +40,8 @@ fields:
       - Video
       - Podcast
       - Meditation
+      - Article
+      - Book
       source:
         type: simple
         section: 
@@ -75,7 +77,6 @@ fields:
       options:
       - Introductory
       - Further Reading
-      - Next Steps
       source:
         type: simple
         section: 
@@ -120,6 +121,16 @@ fields:
         format: markdown
     label: Submission instructions
   label: Activity
+- name: next_steps
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Next Steps
+  description: Bonus work students can do after they finish the activity.
 pages:
 - ux/details/card-sorting.md
 - ux/details/forms.md
