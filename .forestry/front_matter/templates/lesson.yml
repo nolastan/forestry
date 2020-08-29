@@ -81,3 +81,5 @@ fields:
     max: 
   label: Practice
   description: Steps for the practice activity.
+pages:
+- ux/notifications.md
