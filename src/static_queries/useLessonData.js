@@ -5,9 +5,8 @@ export default function useLessonData() {
     query getLessonData {
       lesson {
         lessonData {
-          title,
+          title
           emoji
-          }
         }
       }
     }
