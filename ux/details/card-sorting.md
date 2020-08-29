@@ -8,11 +8,13 @@ media:
   source: UI Breakfast
   url: UX Research Tools
   notes: Card sorting discussion starts 12 minutes in.
+  context: ''
 - title: What is card sorting?
   source: UXClub
   url: https://www.youtube.com/watch?v=xUPpG3JCx6I
   notes: ''
   type: Video
+  context: ''
 practice: "This exercise is based on Fiorella Rizza’s article [How I taught Information
   Architecture to aspiring UX Designers](https://uxdesign.cc/how-i-taught-information-architecture-to-aspiring-ux-designers-281ce61de42f).\n\n1.
   Start by duplicating [this list of cities](https://whimsical.com/XBqWS16BhxNSXxQ8y9fbjU#7YNFXnKbYf5A4mKsXtJTN)
@@ -43,6 +45,8 @@ activity:
     3\. Synthesized learnings
 
     4\. Your response to the reflection prompt
+next_steps: If you’d like to try a new tool to conduct the card sort, here’s a list
+  of popular [card sorting tools](http://measuringuserexperience.com/cardsorting/index.htm).
 
 ---
 During the _Wireframing_ section, you likely created some initial iterations of your app’s navigation. In the next lesson, we’ll focus purely on navigation. Now, we’ll step out of our wireframes for a moment to explore two research techniques: _Card Sorting_ and _Tree Testing._
