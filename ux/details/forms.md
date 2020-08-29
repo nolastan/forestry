@@ -1,6 +1,6 @@
 ---
 emoji: "\U0001F4CB"
-title: Forms
+title: Forms 2
 learning_objectives: design accessible and engaging forms, and choose the appropriate
   field for collecting various types of information.
 media:
