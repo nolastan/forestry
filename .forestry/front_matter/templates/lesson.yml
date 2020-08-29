@@ -1,4 +1,75 @@
 ---
 label: Lesson
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Student-facing name of this lesson. e.g. "Flexbox"
+- name: emoji
+  type: text
+  config:
+    required: false
+    min: 1
+    max: 1
+  default: "\U0001F4D6"
+  label: Emoji
+- name: learning_objectives
+  type: text
+  config:
+    required: false
+  label: Learning Objectives
+  description: Completes the sentence "<em>As a result of completing this lesson,
+    students will be able to…"</em>
+- name: media
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: type
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Video
+      - Podcast
+      - Meditation
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Type
+  - name: source
+    type: text
+    config:
+      required: false
+    label: Source
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: For podcasts, use the author's website if available.
+  - name: notes
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Notes
+    description: Student-facing context for this media.
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Media
+  description: Videos, podcasts, meditations, etc
