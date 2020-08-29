@@ -1,12 +1,12 @@
 import React from "react"
 import Layout from "../components/Layout"
-import BlogList from "../components/BlogList"
+import LessonList from "../components/LessonList"
 
 export default function IndexPage() {
   return (
     <Layout page="home" bgColor="inherit">
       <section>
-        <BlogList />
+        <LessonList />
       </section>
     </Layout>
   )
