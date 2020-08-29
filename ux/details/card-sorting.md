@@ -3,6 +3,13 @@ emoji: "\U0001F0CF"
 title: Card Sorting
 learning_objectives: ''
 media:
+- title: 'Focusing on usability can limit medical device recalls: Here’s how'
+  type: Article
+  source: MassDevice
+  url: https://www.massdevice.com/focusing-on-usability-can-limit-medical-device-recalls-heres-how/
+  notes: A reminder of why it’s so important to conduct usability research techniques
+    such as Card Sorting.
+  context: Further Reading
 - title: UX Research Tools
   type: Podcast
   source: UI Breakfast
