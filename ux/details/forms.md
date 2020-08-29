@@ -9,6 +9,13 @@ media:
   url: https://www.youtube.com/watch?v=z9H7p1_iI14
   type: Video
   notes: ''
+practice: |-
+  ![](https://paper-attachments.dropbox.com/s_384961FBBBD46E6F8BD319E69057F39099099AD0C8B590484353B51FDFEB8B0B_1598640867963_image.png)
+
+  1. Choose a sample form from [Elbowspace](https://www.elbowspace.com/FRHformexamples).
+  2. In a new Whimsical Wireframe, insert the URL of the sample using the Link tool (**K**) for reference.
+  3. Redesign the form in Whimsical.
+  4. Review the form, and consider how you can make it more engaging.
 
 ---
 Forms are the primary way users provide information!

@@ -83,4 +83,5 @@ fields:
       format: markdown
   label: Practice
 pages:
+- ux/details/forms.md
 - ux/notifications.md
