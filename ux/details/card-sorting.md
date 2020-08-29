@@ -3,6 +3,12 @@ emoji: "\U0001F0CF"
 title: Card Sorting
 learning_objectives: ''
 media:
+- title: Card Sort
+  type: Article
+  source: UX Research Field Guide
+  url: https://uxrfieldguide.com/methodologies/card-sort/
+  notes: A brief summary of the required readings. Helpful for quick review.
+  context: Further Reading
 - title: 'Focusing on usability can limit medical device recalls: Here’s how'
   type: Article
   source: MassDevice
