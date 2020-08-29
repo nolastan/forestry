@@ -15,9 +15,7 @@ Forms are the primary way users provide information!
 
 ## Form Fields
 
-![](https://paper-attachments.dropbox.com/s_384961FBBBD46E6F8BD319E69057F39099099AD0C8B590484353B51FDFEB8B0B_1598560203588_Unknown.png)
-
-Forms consist of one or more _fields_. In a traditional, paper-based form, we might refer to fields as _boxes_ or _blanks,_ as in “check all the boxes” or “fill in the blanks.” When talking to web developers, we refer to fields as _inputs_, as in “the user inputs information.”
+![](https://paper-attachments.dropbox.com/s_384961FBBBD46E6F8BD319E69057F39099099AD0C8B590484353B51FDFEB8B0B_1598560203588_Unknown.png)Forms consist of one or more _fields_. In a traditional, paper-based form, we might refer to fields as _boxes_ or _blanks,_ as in “check all the boxes” or “fill in the blanks.” When talking to web developers, we refer to fields as _inputs_, as in “the user inputs information.”
 
 ### Text Field
 
