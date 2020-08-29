@@ -106,5 +106,6 @@ fields:
     label: Submission instructions
   label: Activity
 pages:
+- ux/details/card-sorting.md
 - ux/details/forms.md
 - ux/notifications.md
