@@ -67,6 +67,21 @@ fields:
         format: markdown
     label: Notes
     description: Student-facing context for this media.
+  - name: context
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Introductory
+      - Further Reading
+      - Next Steps
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Context
   config:
     min: 
     max: 
