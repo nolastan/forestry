@@ -82,6 +82,29 @@ fields:
     schema:
       format: markdown
   label: Practice
+- name: activity
+  type: field_group
+  config: {}
+  fields:
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Content
+  - name: submission_instructions
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Submission instructions
+  label: Activity
 pages:
 - ux/details/forms.md
 - ux/notifications.md
