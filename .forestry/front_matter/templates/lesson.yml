@@ -73,3 +73,11 @@ fields:
     labelField: 
   label: Media
   description: Videos, podcasts, meditations, etc
+- name: practice
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Practice
+  description: Steps for the practice activity.
