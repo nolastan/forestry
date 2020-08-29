@@ -16,6 +16,50 @@ practice: |-
   2. In a new Whimsical Wireframe, insert the URL of the sample using the Link tool (**K**) for reference.
   3. Redesign the form in Whimsical.
   4. Review the form, and consider how you can make it more engaging.
+activity:
+  content: |-
+    ## 1. Apply best practices
+
+    Apply the rules from [**Design Better Forms**](https://uxdesign.cc/design-better-forms-96fadca0f49c) to all of the forms in your project.
+
+    ![light bulb](https://paper.dropboxstatic.com/static/img/ace/emoji/1f4a1.png?version=6.0.0 "light bulb" =x16) If you don’t have any forms in your wireframes, consult with your facilitator on how to best complete this section.
+
+    Rules in [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c):
+
+     1. Forms should be one column
+     2. Top align labels
+     3. Group labels with their inputs
+     4. Avoid all caps
+     5. Show all selection options if under 6
+     6. Resist using placeholder text as labels
+     7. Place checkboxes (and radios) underneath each other for scannability
+     8. Make CTAs \[Calls to Action\] descriptive
+     9. Specify errors inline
+    10. Use inline validation after the user fills out the field
+    11. Don’t hide basic helper text
+    12. Differentiate primary from secondary actions
+    13. Use field length as an affordance
+    14. Ditch the * and denote optional fields
+    15. Group related information
+
+    ## 2. Omit fields
+
+    Challenge yourself to see if you can **remove one form field from your app**. Document either the form field you removed, or your reasoning for keeping all fields.
+
+    ## 3. Make it fun
+
+    In the _Beyond Likert scales_ reading, the authors replaced a boring 1-5 scale with a fun _emoji slider_. **Design a form field in your app to be more fun.**
+
+    ![](https://s3.amazonaws.com/www-inside-design/uploads/2018/06/likert-2.gif)
+
+    # Reflection
+
+    Back in the day, software creators followed the _Three Clicks Rule_, which states that any task should be achievable with no more than 3 clicks. This rule is widely regarded among UX designers as antiquated. Given what you’ve learned about forms, and considering our discussion about the taxi app vs Lyft, what would you say to a project manager who insists on following the _Three Clicks Rule?_
+  submission_instructions: |-
+    ## What to submit
+
+    1. Whimsical wireframes with updated forms
+    2. Documentation of omitted field
 
 ---
 Forms are the primary way users provide information!
