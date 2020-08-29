@@ -23,7 +23,7 @@ Forms are the primary way users provide information!
 
 A text field is the most basic type of input. In HTML, the `<input>` tag defaults to a text field. Text fields are ideal for short, free-form text. _Free-form_ here means that the user can type anything into the box.
 
-:whimsical: In Whimsical, you can quickly insert a text field with the keyboard shortcut `**P**`.
+{{% tip "Tip Title" %}} In Whimsical, you can quickly insert a text field with the keyboard shortcut `**P**`. {{% /tip %}}
 
 If a keyboard user presses `enter` or `return` while focused on a text field, the form will submit. To enable multiple lines or paragraphs, use a text area.
 
